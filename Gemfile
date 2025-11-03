@@ -63,5 +63,5 @@ end
 
 group :test do
   # Simple one-liner tests for common Rails functionality
-  gem "shoulda-matchers", "~> 6.0"
+  gem "shoulda-matchers", "~> 7.0"
 end
